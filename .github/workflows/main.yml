@@ -1,6 +1,4 @@
-Ikutin ini aja
-
-name: Verify Human Identity
+name: aryelzeltha
 
 on:
   workflow_dispatch:
